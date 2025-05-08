@@ -20,8 +20,7 @@
 
 ---
 
-<h3 quote align="center" style="font-family: 'M PLUS Code Latin', monospace;">Carpe Diem quam minimum credula postero.</h3 quote>
-
+<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=509&height=40&lines=Carpe+Diem+quam+minimum+cr%C3%A9dula+postero." alt="Carpe Diem quam minimum crédula postero." />
 ---
 
 ## 💻 Tech Stack:
