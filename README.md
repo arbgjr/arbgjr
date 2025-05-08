@@ -1,5 +1,4 @@
 <!--## 💫 About Me:-->
-@import url('https://github.com/arbgjr/arbgjr/blob/main/readme_style.css');
 ## Hi there 👋
 
 <p align="center">
