@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" height="60" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/PowerBuilder_logo.svg" alt="PowerBuilder" height="60" width="60" />
 </p>
 
 ### 🌐 Frontend
@@ -75,6 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="60" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_VSS.svg" alt="Visual SourceSafe" height="60" width="60" />
 </p>
 
 ### 🐳 DevOps & Contêineres
@@ -107,12 +109,22 @@
 
 ### 🧠 Soft Skills
 
-- **Comunicação clara e eficaz**
-- **Trabalho em equipe**
-- **Gestão de tempo**
-- **Adaptabilidade**
-- **Pensamento crítico**
+<p align="center">
+  <!-- Comunicação -->
+  <img src="https://img.icons8.com/ios/452/communication.png" alt="Comunicação" height="60" width="60" />
 
+  <!-- Trabalho em Equipe -->
+  <img src="https://img.icons8.com/ios/452/teamwork.png" alt="Trabalho em Equipe" height="60" width="60" />
+
+  <!-- Gestão de Tempo -->
+  <img src="https://img.icons8.com/ios/452/time.png" alt="Gestão de Tempo" height="60" width="60" />
+
+  <!-- Adaptabilidade -->
+  <img src="https://img.icons8.com/ios/452/adjust.png" alt="Adaptabilidade" height="60" width="60" />
+
+  <!-- Pensamento Crítico -->
+  <img src="https://img.icons8.com/ios/452/brainstorm.png" alt="Pensamento Crítico" height="60" width="60" />
+</p>
 
 <!--
 **arbgjr/arbgjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
