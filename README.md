@@ -1,5 +1,15 @@
 <!--## 💫 About Me:-->
-## Hi there 👋
+# 👨‍💻 Armando Rogério Brandão Guimarães Junior
+
+**AI Experience & Culture Lead | GitHub Universe 2025 Speaker**  
+
+---
+
+## 🧠 About Me
+
+With over **35 years** of experience in technology, my journey began in the 90s when commercial internet first arrived in Brazil. Since then, I’ve been working to make software development more **human**, **accessible**, and **efficient**. Currently, I’m the **Head of AI Experience & Culture at Sinqia**, where I lead **digital transformation** and **AI adoption** initiatives to improve the **developer experience**.
+
+---
 
 ## 🔥 GitHub stats:
 
@@ -28,9 +38,32 @@
 
 ---
 
+## 🎤 Conferences & Talks
+
+- **Global Power Platform Bootcamp 2020**: Speaker
+- **DevOps Days BH 2019**: Speaker
+- **TDC 2023 INNOVATION**: Speaker
+- **DeveloperWeek Latin America 2023**: Speaker
+
+---
+
+## 💬 Let's Connect
+
+- **LinkedIn**: [Armando Guimarães](https://www.linkedin.com/in/armandoguimaraes/)
+- **Medium**: [Developer Experience in vein!](https://medium.com/@armando.g)
+- **DEV.to**: [Armando on DEV](https://dev.to/armandoguimaraes)
+
+---
+
+## 🎯 My Goal for 2025
+
+**Transform the Developer Experience with AI!** I want to share how **Generative AI** can **transform developers' lives**, showing how to **automate workflows** and **make coding more intuitive**.
+
+---
+
 ## Tech Stack:
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" width="60" />
@@ -56,7 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="60" width="60" />
 </p>
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" height="60" width="60" />
@@ -65,7 +98,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="60" width="60" />
 </p>
 
-### 🧰 Ferramentas de Desenvolvimento
+### 🧰 Development Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" height="60" width="60" />
@@ -74,7 +107,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" height="60" width="60" />
 </p>
 
-### 🧪 Controle de Versão
+### 🧪 Version Control
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" width="60" />
@@ -91,7 +124,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="60" width="60" />
 </p>
 
-### 🐧 Sistemas Operacionais
+### 🐧 OSs
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" width="60" />
@@ -100,7 +133,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MS-DOS" height="60" width="60" />
 </p>
 
-### 📦 Pacotes e Bibliotecas
+### 📦 Packages & Libraries
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="NuGet" height="60" width="60" />
@@ -128,6 +161,11 @@
   <!-- Pensamento Crítico -->
   <img src="https://img.icons8.com/ios/452/brainstorm.png" alt="Pensamento Crítico" height="60" width="60" />
 </p>
+
+
+---
+
+## 💡 Let's make **development** more **human, accessible, and efficient**! #DeveloperExperience #AI #TechForGood #GitHubUniverse2025
 
 <!--
 **arbgjr/arbgjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
