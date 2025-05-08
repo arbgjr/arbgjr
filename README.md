@@ -1,13 +1,27 @@
 <!--## 💫 About Me:-->
 ## Hi there 👋
 
+## 🔥 GitHub stats:
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/arbgjr"><img alt="Armando Github Stats" src="https://github-readme-stats.vercel.app/api?username=arbgjr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/arbgjr"><img alt="Armando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbgjr&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+
+[![Armando github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arbgjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
+
+
+<p align="center">
+  <a href="https://github.com/arbgjr/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=arbgjr" alt="Armando GitHub stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/arbgjr/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbgjr" alt="Top Langs">
   </a>
 </p>
@@ -34,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" height="60" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/PowerBuilder_logo.svg" alt="PowerBuilder" height="60" width="60" />
 </p>
 
 ### 🌐 Frontend
@@ -76,7 +89,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="60" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_VSS.svg" alt="Visual SourceSafe" height="60" width="60" />
 </p>
 
 ### 🐳 DevOps & Contêineres
