@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-With over **35 years** of experience in technology, my journey began in the 90s when commercial internet first arrived in Brazil. Since then, I’ve been working to make software development more **human**, **accessible**, and **efficient**. Currently, I’m the **Head of AI Experience & Culture at Sinqia**, where I lead **digital transformation** and **AI adoption** initiatives to improve the **developer experience**.
+With over **35 years** of experience in technology, my journey began in the end of 80s before commercial internet first arrived in Brazil. Since then, I’ve been working to make software development more **human**, **accessible**, and **efficient**. Currently, I’m the **Head of AI Experience & Culture at Sinqia**, where I lead **digital transformation** and **AI adoption** initiatives to improve the **developer experience**.
 
 ---
 
