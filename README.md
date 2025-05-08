@@ -122,7 +122,7 @@
   <img src="https://img.icons8.com/ios/452/time.png" alt="Gestão de Tempo" height="60" width="60" />
 
   <!-- Adaptabilidade -->
-  <img src="https://img.icons8.com/ios/452/adjust.png" alt="Adaptabilidade" height="60" width="60" />
+  <img src="https://img.icons8.com/ios/452/vertical-settings-mixer.png" alt="Adaptabilidade" height="60" width="60" />
 
   <!-- Pensamento Crítico -->
   <img src="https://img.icons8.com/ios/452/brainstorm.png" alt="Pensamento Crítico" height="60" width="60" />
