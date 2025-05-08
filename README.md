@@ -1,7 +1,7 @@
 <!--## 💫 About Me:-->
 # 👨‍💻 Armando Rogério Brandão Guimarães Junior
 
-**AI Experience & Culture Lead | GitHub Universe 2025 Speaker**  
+**AI Experience & Culture Lead**  
 
 ---
 
