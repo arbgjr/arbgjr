@@ -12,7 +12,7 @@
 </p>
 
 
-[![Armando github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arbgjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
+[![Armando github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arbgjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/arbgjr/github-readme-activity-graph)
 
 
 <p align="center">
