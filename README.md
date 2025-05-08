@@ -16,16 +16,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/arbgjr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=arbgjr" alt="Armando GitHub stats">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/arbgjr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbgjr" alt="Top Langs">
-  </a>
-</p>
-<p align="center">
   <img src="https://profile-counter.glitch.me/arbgjr/count.svg" alt="Visitor Count">
 </p>
 <p align="center">
