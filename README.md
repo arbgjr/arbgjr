@@ -1,14 +1,19 @@
 <!--## 💫 About Me:-->
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@400;700&display=swap');
 ## Hi there 👋
 
 <p align="center">
-[![Armando GitHub stats](https://github-readme-stats.vercel.app/api?username=arbgjr)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=arbgjr" alt="Armando GitHub stats">
+  </a>
 </p>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbgjr)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbgjr" alt="Top Langs">
+  </a>
 </p>
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/arbgjr/count.svg)
+  <img src="https://profile-counter.glitch.me/arbgjr/count.svg" alt="Visitor Count">
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=28F719&background=000000&width=435&lines=A+curious+guy!;35%2B+years+as+a+curious+developer!;From+NATURAL%2FADABAS+to+Vibe+Coding!;When+I+first+got+here%2C+it+was+all+wilderness!;And+we+used+to+clear+it+with+5+1%2F4+inch+floppy+disks!;Always+looking+to+learn+new+things!!!;A+nerd+forged+in+the+80s" alt="Typing SVG" /></a>
@@ -16,7 +21,7 @@
 
 ---
 
-<h3 quote align='center'>Carpe Diem quam minimum credula postero.</h3 quote>
+<h3 quote align="center" style="font-family: 'M PLUS Code Latin', monospace;">Carpe Diem quam minimum credula postero.</h3 quote>
 
 ---
 
