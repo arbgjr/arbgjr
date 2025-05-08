@@ -1,5 +1,5 @@
 <!--## 💫 About Me:-->
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@400;700&display=swap');
+@import url('https://github.com/arbgjr/arbgjr/blob/main/readme_style.css');
 ## Hi there 👋
 
 <p align="center">
