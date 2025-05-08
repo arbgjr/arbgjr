@@ -40,18 +40,21 @@ With over **35 years** of experience in technology, my journey began in the 90s 
 
 ## 🎤 Conferences & Talks
 
+- **DevOps Days BH 2019**: [Speaker](https://www.youtube.com/watch?v=APYgcQn02bE&t=3s)
+- **Global Microsoft 365 Developer Bootcamp 2019**: Speaker
 - **Global Power Platform Bootcamp 2020**: Speaker
-- **DevOps Days BH 2019**: Speaker
-- **TDC 2023 INNOVATION**: Speaker
-- **DeveloperWeek Latin America 2023**: Speaker
+- **TDC INNOVATION 2023**: [Speaker](https://www.youtube.com/watch?v=KNmhheFEkrQ)
+- **TDC Connections 2023**: [Speaker](https://www.youtube.com/watch?v=IicevHLNW6M&t=2s)
+- **DeveloperWeek Latin America 2023**: [Speaker](https://dwlatinamerica23.sched.com/event/1MXaW/devx-how-to-make-in-house-dev-lives-happier)
 
 ---
 
 ## 💬 Let's Connect
 
 - **LinkedIn**: [Armando Guimarães](https://www.linkedin.com/in/armandoguimaraes/)
-- **Medium**: [Developer Experience in vein!](https://medium.com/@armando.g)
+- **Medium**: [Developer Experience in vein!](https://medium.com/@ArmandoRBGJr)
 - **DEV.to**: [Armando on DEV](https://dev.to/armandoguimaraes)
+- **Evertec Trends**: [Armando Guimarães](https://evertectrends.com/author/armando-guimaraes/)
 
 ---
 
