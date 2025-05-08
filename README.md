@@ -165,7 +165,7 @@ With over **35 years** of experience in technology, my journey began in the end 
 
 ---
 
-## 💡 Let's make **development** more **human, accessible, and efficient**! #DeveloperExperience #AI #TechForGood #GitHubUniverse2025
+## 💡 Let's make **development** more **human, accessible, and efficient**! #DeveloperExperience #AI #TechForGood
 
 <!--
 **arbgjr/arbgjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
